@@ -1,30 +1,30 @@
 {
-    "name": "laravel-enso/cli",
+    "name": "genealogiawebsite/cli",
     "description": "Cli dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "cli",
         "enso-helper"
     ],
-    "homepage": "https://github.com/laravel-enso/cli",
+    "homepage": "https://github.com/genealogiawebsite/cli",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=7.4.0",
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/menus": "^4.0",
-        "laravel-enso/permissions": "^4.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/roles": "^4.0"
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/menus": "^4.0",
+        "genealogiawebsite/permissions": "^4.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/roles": "^4.0"
     },
     "autoload": {
         "psr-4": {
